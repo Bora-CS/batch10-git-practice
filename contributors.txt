@@ -1,9 +1,10 @@
 Contributer List:
- - Murad
+ - Muradil Erkin
  - Hui
  - Krystal
  - Lena
  - Helen
+ - Mohssin
  - Lydia
  - Ardal
  - Javier
@@ -13,3 +14,4 @@ Contributer List:
  - Karma
  - Minh
  - Jin
+ - Turghunjan
