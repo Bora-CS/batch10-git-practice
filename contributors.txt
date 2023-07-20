@@ -12,6 +12,6 @@ Contributer List:
  - Alice
  - Karma
  - Minh
- - Sarah
  - Jin
+ - Sarah
 
