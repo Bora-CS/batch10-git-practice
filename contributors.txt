@@ -11,4 +11,6 @@ Contributer List:
  - Marvin
  - Alice
  - Karma
-
+ - Minh
+ - Jin
+ - Sarah
